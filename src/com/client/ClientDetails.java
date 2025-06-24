@@ -20,6 +20,8 @@ public class ClientDetails {
 		client.clientName();
 		client.clientId();
 		client.clientLocation();
+		int a = 10;
+		System.out.println(a);
 
 	}
 }
